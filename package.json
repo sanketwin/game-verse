@@ -1,0 +1,23 @@
+{
+  "name": "game-verse",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000a\u0000m\u0000e\u0000-\u0000v\u0000e\u0000r\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/sanketwin/game-verse#readme",
+  "bugs": {
+    "url": "https://github.com/sanketwin/game-verse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketwin/game-verse.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
